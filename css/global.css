@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+}
+
+.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    background-color: #b0e0e6;
+}
